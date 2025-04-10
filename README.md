@@ -1,7 +1,7 @@
 # Hammerspoon F8 终端执行器
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/Hammerspoon-F8-Terminal-Runner?style=social)](https://github.com/yourusername/Hammerspoon-F8-Terminal-Runner)
-[![Gitee stars](https://gitee.com/yourusername/Hammerspoon-F8-Terminal-Runner/badge/star.svg?theme=dark)](https://gitee.com/yourusername/Hammerspoon-F8-Terminal-Runner)
+[![GitHub stars](https://img.shields.io/github/stars/43999xiaoyang/Hammerspoon-F8-Terminal-Runner?style=social)](https://github.com/43999xiaoyang/Hammerspoon-F8-Terminal-Runner)
+[![Gitee stars](https://gitee.com/lai-xu/Hammerspoon-F8-Terminal-Runner/badge/star.svg?theme=dark)](https://gitee.com/lai-xu/Hammerspoon-F8-Terminal-Runner)
 
 ## 简介
 
